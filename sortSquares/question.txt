@@ -1,0 +1,4 @@
+Given a sorted array with negative and
+positive values, make a new sorted array
+that contains all the squares of the input
+array (SORTED).

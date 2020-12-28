@@ -1,0 +1,8 @@
+Given an array of integers(No special properties)
+and an integer number, find the longest subarray that 
+in the array whose sum of all the elements would equal
+to the integer given.
+REturn the length of the longest subarray.
+//CONSTRAINTS
+Sum : +
+Values : +

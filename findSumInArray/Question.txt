@@ -1,0 +1,7 @@
+Given an array and an integer, return whether 
+two elements can be selected from the array
+so that the sum can be equal to the given integer.
+All the numbers can be negative, positive or 0.
+
+CASE 1 : Sorted array (Increasing);
+CASE 2 : Unsorted array;

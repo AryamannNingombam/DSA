@@ -1,0 +1,26 @@
+{
+    "files.associations": {
+        "istream": "cpp",
+        "vector": "cpp",
+        "iostream": "cpp",
+        "stack": "cpp",
+        "string": "cpp",
+        "iosfwd": "cpp",
+        "queue": "cpp",
+        "ostream": "cpp",
+        "map": "cpp",
+        "__locale": "cpp",
+        "ios": "cpp",
+        "utility": "cpp",
+        "unordered_map": "cpp",
+        "memory": "cpp",
+        "__string": "cpp",
+        "fstream": "cpp",
+        "list": "cpp",
+        "algorithm": "cpp",
+        "climits": "cpp",
+        "filesystem": "cpp",
+        "string_view": "cpp"
+    },
+    "C_Cpp.dimInactiveRegions": false
+}

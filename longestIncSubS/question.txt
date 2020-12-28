@@ -1,0 +1,16 @@
+find the longest increasing subsequence 
+in an array of n elements. This is a 
+maximum-length sequence of array elements 
+that goes from left to right, and each element
+ in the sequence is larger than the previous 
+ element. For example, in the array
+
+6
+2 -- 
+5 -- 
+1
+7 -- 
+4
+8 -- 
+3
+the longest increasing subsequence contains 4 elements:
